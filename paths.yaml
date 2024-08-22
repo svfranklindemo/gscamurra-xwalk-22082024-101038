@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/gscamurra/gscamurra-2024-8-22-12-10-4/:/
+ - /content/gscamurra/gscamurra-2024-8-22-12-10-4/metadata.json:/metadata.json
+ - /content/gscamurra/gscamurra-2024-8-22-12-10-4/redirects.json:/redirects.json
